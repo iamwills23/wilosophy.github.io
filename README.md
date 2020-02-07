@@ -1,1 +1,1 @@
-# wilosophy.github.io
+![Foo](WilosophyWebsite2020.png)
